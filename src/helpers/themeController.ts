@@ -97,14 +97,14 @@ const colorMap: {
   },
   night: {
     // 'background-color': '#181818',
-    'primary-color': '#8774E1',
-    'message-out-primary-color': '#8774E1',
+    'primary-color': '#3390EC',
+    'message-out-primary-color': '#3390EC',
     'message-background-color': '#212121',
     'surface-color': '#212121',
     'danger-color': '#ff595a',
     'primary-text-color': '#ffffff',
     'secondary-text-color': '#aaaaaa',
-    'saved-color': '#8774E1',
+    'saved-color': '#3390EC',
     'green-color': '#5CC85E'
   }
 };
